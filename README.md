@@ -22,7 +22,7 @@ Label 5: Artifacts (color codes: #FF5500): walls, fences, light poles, vehicles,
 
 Label 0: Unclassified (color codes: #000000): noise, outliers, and unlabeled points.
 
-<img src="/figures/LASDU_ColorMap.png" height="50%" width="50%" >
+<img src="/figures/LASDU_ColorMap.png" height="70%" width="70%" >
 
 The total number of annotated points is approximately 3.12 million. The entire labeled point cloud of the investigating area has been divided into four sections, and the numbers of points in these four sections are around 0.77 million, 0.59 million, 1.13 million, and 0.62 million, respectively. In the following figure, the separation of the study area is illustrated.
 
