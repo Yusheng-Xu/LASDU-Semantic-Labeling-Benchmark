@@ -3,7 +3,7 @@ This dataset is used as the reference for the semantic labeling of ALS point clo
 
 ### Data introduction
 
-![Illustration](/figures/LASDU_ColorMep.png)
+![Illustration](/figures/LASDU_ColorMap.png)
 
 
 ### Data acquisition
