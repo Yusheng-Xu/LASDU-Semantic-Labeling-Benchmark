@@ -1,6 +1,11 @@
 # LASDU-Semantic-Labeling-Benchmark
 This dataset is used as the reference for the semantic labeling of ALS point clouds
 
+### Data introduction
+
+![Illustration](/figures/LASDU_ColorMep.png)
+
+
 ### Data acquisition
 
 Please contact [Prof. Xiaohua Tong or Dr. Zhen Ye](http://www.pf.bgu.tum.de/sta.html) for getting this dataset. 
