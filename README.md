@@ -37,7 +37,7 @@ For this dataset, the observed city blocks covered both the unchanged area and t
 Please contact [Prof. Xiaohua Tong or Dr. Zhen Ye](http://www.pf.bgu.tum.de/sta.html) for getting this dataset. 
 
 ### Copyright
-The original MLS dataset is copyrighted by  and it is made available under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
+The annotated ALS dataset is copyrighted by College of Surveying and Geo-informatics, Tongji University and Photogrammetry and Remote Sensing, Technical University of Munich. It is made available under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
 
 ### Reference:
 
@@ -56,5 +56,15 @@ Please refer the following publication, if this reference dataset is used in you
           Xiaohua~Tong,
           Uwe~Stilla},
   year={2020}
+}
+@article{li2013heihe,
+  title={Heihe watershed allied telemetry experimental research (HiWATER): Scientific objectives and experimental design},
+  author={Li, Xin and Cheng, Guodong and Liu, Shaomin and Xiao, Qing and Ma, Mingguo and Jin, Rui and Che, Tao and Liu, Qinhuo and Wang, Weizhen and Qi, Yuan and others},
+  journal={Bulletin of the American Meteorological Society},
+  volume={94},
+  number={8},
+  pages={1145--1160},
+  year={2013},
+  publisher={American Meteorological Society}
 }
 ```
