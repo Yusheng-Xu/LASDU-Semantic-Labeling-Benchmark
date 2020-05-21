@@ -37,7 +37,7 @@ For this dataset, the observed city blocks covered both the unchanged area and t
 Please contact [Prof. Xiaohua Tong or Dr. Zhen Ye](http://www.pf.bgu.tum.de/sta.html) for getting this dataset. 
 
 ### Copyright
-The annotated ALS dataset is copyrighted by College of Surveying and Geo-informatics, Tongji University and Photogrammetry and Remote Sensing, Technical University of Munich. It is made available under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
+The annotated ALS dataset is copyrighted by College of Surveying and Geo-informatics, Tongji University and Photogrammetry and Remote Sensing, Technical University of Munich. If this annotated data is used in your work, it is made available under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
 
 ### Reference:
 
