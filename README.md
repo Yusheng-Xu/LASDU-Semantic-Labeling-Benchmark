@@ -22,17 +22,17 @@ Label 5: Artifacts (color codes: #FF5500): walls, fences, light poles, vehicles,
 
 Label 0: Unclassified (color codes: #000000): noise, outliers, and unlabeled points.
 
-<img src="/figures/LASDU_ColorMap.png" height="70%" width="70%" >
+<img src="/figures/LASDU_ColorMap.png" height="85%" width="85%" >
 
 The total number of annotated points is approximately 3.12 million. The entire labeled point cloud of the investigating area has been divided into four sections, and the numbers of points in these four sections are around 0.77 million, 0.59 million, 1.13 million, and 0.62 million, respectively. In the following figure, the separation of the study area is illustrated.
 
-![Illustration](/figures/LASDU_Map_Sections.png)
+<img src="/figures/LASDU_Map_Sections.png" height="70%" width="70%" >
 
 For this dataset, the observed city blocks covered both the unchanged area and the changed one. The unchanged area means the stable objects (e.g., road, buildings, tree) are not changed over the years by comparing the point cloud and the satellite image. Dynamic objects like moving vehicles are not included. In the following figure, we give an example of the unchanged area. Note that the point cloud was acquired in 2012, while the satellite image was taken in 2014. The changing area in this data is mainly about construction sites. During the acquisition of the ALS point cloud, there were several on-going construction projects (for a single building or for an entire area).
 
-![Illustration](/figures/LASDU_Details.png)
+<img src="/figures/LASDU_Map_Details.png" height="75%" width="75%" >
 
-### Data acquisition
+### Data access
 
 Please contact [Prof. Xiaohua Tong or Dr. Zhen Ye](http://www.pf.bgu.tum.de/sta.html) for getting this dataset. 
 
