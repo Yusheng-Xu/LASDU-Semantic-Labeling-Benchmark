@@ -9,11 +9,17 @@ Here we present a  novel  aerial  LiDAR  dataset  termed  as LASDU (Large-scale 
 This dataset was a part of data acquired in the campaigns from HiWATER (Heihe Watershed Allied Telemetry Experimental Research) project.  The ALS point clouds were originally acquired in July 2012, by the use of a Leica ALS70 system onboard on an aircraft with a flying height of about 1200 m. The average point density was approximately 3~4 pts/$m^2$, and the vertical accuracy ranges between 5–30 cm. The annotated dataset covers an urban area of around 1 km × 1 km, with highly-dense residential and industrial buildings. 
 
 For the annotation of points, we have manually labeled this area with five different classes of objects and one class of unclassified points and points of different labels rendered with different colors:
+
 Label 1: Ground (color codes: $\#$AFAFAF): artificial ground, roads, bare land.
+
 Label 2: Buildings (color codes: $\#$00007F): buildings.
+
 Label 3: Trees (color codes: $\#$09781A): tall and low trees.
+
 Label 4: Low vegetation (color codes: $\#$AAFF7F): bushes, grass, flower beds.
+
 Label 5: Artifacts (color codes: $\#$FF5500): walls, fences, light poles, vehicles, other artificial objects.
+
 Label 0: Unclassified (color codes: $\#$000000): noise, outliers, and unlabeled points.
 
 ![Illustration](/figures/LASDU_ColorMap.png){:height="50%" width="50%"}
