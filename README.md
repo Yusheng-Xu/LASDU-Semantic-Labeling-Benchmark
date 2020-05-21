@@ -6,23 +6,23 @@ This dataset is used as the reference for the semantic labeling of ALS point clo
 
 Here we present a  novel  aerial  LiDAR  dataset  termed  as LASDU (Large-scale ALS data for Semantic labeling in Dense Urban areas), which is designed for semantic labeling of ALS point clouds in highly-dense urban areas.
 
-This dataset was a part of data acquired in the campaigns from HiWATER (Heihe Watershed Allied Telemetry Experimental Research) project.  The ALS point clouds were originally acquired in July 2012, by the use of a Leica ALS70 system onboard on an aircraft with a flying height of about 1200 m. The average point density was approximately 3~4 pts/$m^2$, and the vertical accuracy ranges between 5–30 cm. The annotated dataset covers an urban area of around 1 km × 1 km, with highly-dense residential and industrial buildings. 
+This dataset was a part of data acquired in the campaigns from HiWATER (Heihe Watershed Allied Telemetry Experimental Research) project.  The ALS point clouds were originally acquired in July 2012, by the use of a Leica ALS70 system onboard on an aircraft with a flying height of about 1200 m. The average point density was approximately 3~4 pts/m^2, and the vertical accuracy ranges between 5–30 cm. The annotated dataset covers an urban area of around 1 km × 1 km, with highly-dense residential and industrial buildings. 
 
 For the annotation of points, we have manually labeled this area with five different classes of objects and one class of unclassified points and points of different labels rendered with different colors:
 
-Label 1: Ground (color codes: $\#$AFAFAF): artificial ground, roads, bare land.
+Label 1: Ground (color codes: #AFAFAF): artificial ground, roads, bare land.
 
-Label 2: Buildings (color codes: $\#$00007F): buildings.
+Label 2: Buildings (color codes: #00007F): buildings.
 
-Label 3: Trees (color codes: $\#$09781A): tall and low trees.
+Label 3: Trees (color codes: #09781A): tall and low trees.
 
-Label 4: Low vegetation (color codes: $\#$AAFF7F): bushes, grass, flower beds.
+Label 4: Low vegetation (color codes: #AAFF7F): bushes, grass, flower beds.
 
-Label 5: Artifacts (color codes: $\#$FF5500): walls, fences, light poles, vehicles, other artificial objects.
+Label 5: Artifacts (color codes: #FF5500): walls, fences, light poles, vehicles, other artificial objects.
 
-Label 0: Unclassified (color codes: $\#$000000): noise, outliers, and unlabeled points.
+Label 0: Unclassified (color codes: #000000): noise, outliers, and unlabeled points.
 
-![Illustration](/figures/LASDU_ColorMap.png){:height="50%" width="50%"}
+![](/figures/LASDU_ColorMap.png){:height="50%" width="50%"}
 
 The total number of annotated points is approximately 3.12 million. The entire labeled point cloud of the investigating area has been divided into four sections, and the numbers of points in these four sections are around 0.77 million, 0.59 million, 1.13 million, and 0.62 million, respectively. In the following figure, the separation of the study area is illustrated.
 
