@@ -34,7 +34,7 @@ For this dataset, the observed city blocks covered both the unchanged area and t
 
 ### Data access
 
-Please contact [Prof. Xiaohua Tong](mailto:xhtong@tongji.edu.cn?subject=[LASDU Dataset]%20Xiaohua%20Tong) or [Dr. Zhen Ye](mailto:z.ye@tum.de?subject=[LASDU Dataset]%20Zhen%20Ye) for getting this dataset. 
+Please contact [Prof. Xiaohua Tong](mailto:xhtong@tongji.edu.cn?subject=[LASDU]%20Xiaohua%20Tong) or [Dr. Zhen Ye](mailto:z.ye@tum.de?subject=[LASDU]%20Zhen%20Ye) for getting this dataset. 
 
 ### Copyright
 The annotated ALS dataset is copyrighted by College of Surveying and Geo-informatics, Tongji University and Photogrammetry and Remote Sensing, Technical University of Munich. If this annotated data is used in your work, it is made available under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
